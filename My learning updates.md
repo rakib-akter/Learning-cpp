@@ -1,0 +1,1 @@
+So after compiling my first c++ file I realized that the compiler didnt recognize the file type and I had to write it as cpp, also there's a bunch of files that were created when I ran the code so I'll make a .gitignore cause its lwk noise.
